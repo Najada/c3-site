@@ -5,7 +5,7 @@ import SectionHeader from '../components/section-header';
 import FeatureCardColumn from 'components/feature-card-column.js';
 import Automated from 'assets/key-feature/Automated.svg';
 import Easy from 'assets/key-feature/Easy.svg';
-import Retire from 'assets/feature/Retire.svg';
+import Retire from 'assets/feature/retire.svg';
 
 const data = [
   {
