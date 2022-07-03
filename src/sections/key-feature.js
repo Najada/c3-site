@@ -3,7 +3,7 @@ import { jsx } from 'theme-ui';
 import { Container, Grid } from 'theme-ui';
 import SectionHeader from '../components/section-header';
 import FeatureCardColumn from 'components/feature-card-column.js';
-import Automated from 'assets/key-feature/automated.svg';
+import Automated from 'assets/key-feature/Automated.svg';
 import Easy from 'assets/key-feature/Easy.svg';
 import Retire from 'assets/feature/Retire.svg';
 
