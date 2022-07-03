@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="107.976" height="108.031" viewBox="0 0 107.976 108.031">
+  <g id="Raggruppa_1995" data-name="Raggruppa 1995" transform="translate(-555.012 -1235.969)">
+    <g id="Rettangolo_343" data-name="Rettangolo 343" transform="translate(555.012 1254.062) rotate(-11)" fill="#00e275" stroke="#00570e" stroke-width="2">
+      <path d="M2,0H84.823a10,10,0,0,1,10,10V63.944a10,10,0,0,1-10,10H2a2,2,0,0,1-2-2V2A2,2,0,0,1,2,0Z" stroke="none"/>
+      <path d="M2,1H84.823a9,9,0,0,1,9,9V63.944a9,9,0,0,1-9,9H2a1,1,0,0,1-1-1V2A1,1,0,0,1,2,1Z" fill="none"/>
+    </g>
+    <g id="Rettangolo_344" data-name="Rettangolo 344" transform="translate(610.484 1267.091) rotate(-11)" fill="#27bf76" stroke="#00570e" stroke-width="2">
+      <path d="M13.6,0H46.153a0,0,0,0,1,0,0V27.2a0,0,0,0,1,0,0H13.6A13.6,13.6,0,0,1,0,13.6v0A13.6,13.6,0,0,1,13.6,0Z" stroke="none"/>
+      <path d="M13.6,1H44.83a.323.323,0,0,1,.323.323V25.875a.323.323,0,0,1-.323.323H13.6A12.6,12.6,0,0,1,1,13.6v0A12.6,12.6,0,0,1,13.6,1Z" fill="none"/>
+    </g>
+    <ellipse id="Ellisse_30" data-name="Ellisse 30" cx="50.5" cy="6.5" rx="50.5" ry="6.5" transform="translate(561.988 1331)" fill="#9d9d9d"/>
+  </g>
+</svg>

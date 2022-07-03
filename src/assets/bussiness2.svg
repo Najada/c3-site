@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="273.181" height="227.483" viewBox="0 0 273.181 227.483">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_726" data-name="Rettangolo 726" width="198.787" height="172.142" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_2000" data-name="Raggruppa 2000" transform="translate(23.999 -2094.879) rotate(19)" opacity="0.278">
+    <g id="Raggruppa_1842" data-name="Raggruppa 1842" transform="translate(739.915 1960.814)">
+      <rect id="Rettangolo_722" data-name="Rettangolo 722" width="49.052" height="49.037" transform="translate(74.869 111.935)" fill="#c6def5"/>
+      <rect id="Rettangolo_723" data-name="Rettangolo 723" width="49.052" height="49.037" transform="translate(74.869 111.935)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_724" data-name="Rettangolo 724" width="81.755" height="11.814" transform="translate(58.516 160.072)" fill="#c6def5"/>
+      <g id="Raggruppa_1839" data-name="Raggruppa 1839">
+        <g id="Raggruppa_1838" data-name="Raggruppa 1838" clip-path="url(#clip-path)">
+          <rect id="Rettangolo_725" data-name="Rettangolo 725" width="81.756" height="11.814" transform="translate(58.516 160.072)" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+      <rect id="Rettangolo_727" data-name="Rettangolo 727" width="49.052" height="33.959" transform="translate(74.869 111.934)" fill="#7fabbc"/>
+      <rect id="Rettangolo_728" data-name="Rettangolo 728" width="49.052" height="33.959" transform="translate(74.869 111.934)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_729" data-name="Rettangolo 729" width="198.275" height="136.607" transform="translate(0.256 0.256)" fill="#c6def5"/>
+      <g id="Raggruppa_1841" data-name="Raggruppa 1841">
+        <g id="Raggruppa_1840" data-name="Raggruppa 1840" clip-path="url(#clip-path)">
+          <rect id="Rettangolo_730" data-name="Rettangolo 730" width="198.275" height="136.606" transform="translate(0.256 0.257)" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+      <rect id="Rettangolo_732" data-name="Rettangolo 732" width="191.286" height="116.13" transform="translate(3.751 4.621)" fill="#f4f4f4"/>
+      <rect id="Rettangolo_733" data-name="Rettangolo 733" width="191.286" height="116.13" transform="translate(3.751 4.621)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Linea_67" data-name="Linea 67" y1="52.608" x2="52.608" transform="translate(122.293 15.358)" fill="#f4f4f4"/>
+      <line id="Linea_68" data-name="Linea 68" y1="52.608" x2="52.608" transform="translate(122.293 15.358)" fill="none" stroke="#000" stroke-width="1"/>
+      <line id="Linea_69" data-name="Linea 69" y1="52.608" x2="52.608" transform="translate(131.323 13.788)" fill="#f4f4f4"/>
+      <line id="Linea_70" data-name="Linea 70" y1="52.608" x2="52.608" transform="translate(131.323 13.788)" fill="none" stroke="#000" stroke-width="1"/>
+    </g>
+    <path id="Tracciato_1318" data-name="Tracciato 1318" d="M0,7.891C6.422,7.891,6.422,0,12.844,0s6.422,7.891,12.844,7.891S32.109,0,38.531,0s6.422,7.891,12.843,7.891S57.8,0,64.218,0,70.64,7.891,77.062,7.891,83.484,0,89.905,0s6.423,7.891,12.845,7.891S109.173,0,115.6,0" transform="translate(688.312 2063.827)" fill="none" stroke="#03d06d" stroke-width="2"/>
+    <g id="Ellisse_62" data-name="Ellisse 62" transform="translate(885.053 1918)" fill="none" stroke="#5dbc7c" stroke-width="2">
+      <ellipse cx="16.377" cy="16.377" rx="16.377" ry="16.377" stroke="none"/>
+      <ellipse cx="16.377" cy="16.377" rx="15.377" ry="15.377" fill="none"/>
+    </g>
+  </g>
+</svg>

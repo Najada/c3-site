@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="897.872" height="895.496" viewBox="0 0 897.872 895.496">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#c3e8ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_694" data-name="Rettangolo 694" width="518.243" height="357.997" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_1798" data-name="Raggruppa 1798" transform="translate(-916.162 -3564.618)">
+    <path id="Tracciato_1042" data-name="Tracciato 1042" d="M500,167.065c93.093-9.671,151.083,92.752,208.34,166.789C764,405.82,837.988,483.982,812.672,571.365c-24.651,85.088-133.149,97.253-212.643,136.348-80.989,39.831-155.887,114.005-242.1,87.294-96.6-29.929-182-119.013-186.359-220.046-3.984-92.3,110.171-130.854,168.109-202.811C396.935,301.044,409.2,176.5,500,167.065" transform="matrix(0.799, 0.602, -0.602, 0.799, 1261.077, 3328.509)" fill="url(#linear-gradient)"/>
+    <g id="Raggruppa_1795" data-name="Raggruppa 1795" transform="translate(939.185 3833.368)">
+      <g id="Raggruppa_1794" data-name="Raggruppa 1794" clip-path="url(#clip-path)">
+        <path id="Tracciato_1262" data-name="Tracciato 1262" d="M120.061,363.418c37.361-22.414,49.63-71.226,27.272-108.5C124.888,217.506,76.061,205.278,38.9,227.766A79.054,79.054,0,0,0,11.62,335.913c22.3,37.407,71.245,49.82,108.441,27.5" transform="translate(-0.083 -36.034)" fill="#ffc13b"/>
+        <path id="Tracciato_1263" data-name="Tracciato 1263" d="M120.061,363.418c37.361-22.414,49.63-71.226,27.272-108.5C124.888,217.506,76.061,205.278,38.9,227.766A79.054,79.054,0,0,0,11.62,335.913C33.924,373.319,82.865,385.733,120.061,363.418Z" transform="translate(-0.083 -36.034)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1264" data-name="Tracciato 1264" d="M114.851,352.444A62.616,62.616,0,0,0,136.377,266.8c-17.715-29.531-56.255-39.182-85.589-21.432a62.4,62.4,0,0,0-21.53,85.361c17.6,29.525,56.233,39.323,85.593,21.71" transform="translate(-3.409 -39.359)" fill="#ffe8b6"/>
+        <path id="Tracciato_1265" data-name="Tracciato 1265" d="M68.429,295.191a12.516,12.516,0,0,0,.348,12.533c2.9,4.871,6.768,6.3,10.834,6.256a32.7,32.7,0,0,0,8.412-1.515c.706-.2,1.4-.407,2.08-.6l5.433,9.131a5.626,5.626,0,0,1-2.4.063,5.239,5.239,0,0,1-2.508-1.3,2.241,2.241,0,0,0-2.65-.3l-3.769,2.243-1.8,1.071a3.317,3.317,0,0,0-.459,5.381,13.05,13.05,0,0,0,7.9,3.024,20.082,20.082,0,0,0,8.4-1.542c.645-.25,1.29-.533,1.936-.844l1.72,2.891a2.152,2.152,0,0,0,3.7-2.2l-1.686-2.833c4.255-2.792,6.863-6.182,8.016-9.646a12.959,12.959,0,0,0,.143-8.007,13.175,13.175,0,0,0-1.28-2.878,11.663,11.663,0,0,0-12.111-6.015,54.013,54.013,0,0,0-9.353,2.039L84,293.188a4.884,4.884,0,0,1,4.08.972,2.763,2.763,0,0,0,3.117.224l5.063-3.013a3.5,3.5,0,0,0,.334-5.777c-4.673-3.646-10.754-3.62-17.34-.383l-1.686-2.834a2.152,2.152,0,0,0-3.7,2.2l1.686,2.834q-.883.61-1.687,1.263a20.216,20.216,0,0,0-5.436,6.515M94.454,310.76c2.772-.474,4.96-.213,6.2,1.868,1.272,2.138.757,4.559-1.315,6.338Zm-9.547-7.625a10.387,10.387,0,0,1-2.409.048,4.374,4.374,0,0,1-3.537-2.147A4.119,4.119,0,0,1,78.7,296.8a5.74,5.74,0,0,1,1.426-1.7Z" transform="translate(-11.138 -46.825)" fill="#ffc13b"/>
+        <path id="Tracciato_1266" data-name="Tracciato 1266" d="M263.309,124.177a62.981,62.981,0,0,0,45.656-76.185C300.507,14.4,266.212-6.109,232.8,2.44a62.762,62.762,0,0,0-45.581,75.916c8.354,33.552,42.693,54.23,76.087,45.82" transform="translate(-30.851 -0.083)" fill="#ffc13b"/>
+        <path id="Tracciato_1267" data-name="Tracciato 1267" d="M263.309,124.177a62.981,62.981,0,0,0,45.656-76.185C300.507,14.4,266.212-6.109,232.8,2.44a62.762,62.762,0,0,0-45.581,75.916C195.576,111.908,229.915,132.587,263.309,124.177Z" transform="translate(-30.851 -0.083)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1268" data-name="Tracciato 1268" d="M262.75,113.991a49.529,49.529,0,1,0-60.056-36.166,49.712,49.712,0,0,0,60.056,36.166" transform="translate(-33.492 -2.725)" fill="#ffe8b6"/>
+        <path id="Tracciato_1269" data-name="Tracciato 1269" d="M242.921,57.77a9.936,9.936,0,0,0-2.617,9.6,9.227,9.227,0,0,0,6.8,7.244,25.991,25.991,0,0,0,6.74.782c.583.009,1.156.012,1.719.02l2.031,8.187a4.478,4.478,0,0,1-1.839-.5,4.163,4.163,0,0,1-1.608-1.561,1.779,1.779,0,0,0-1.946-.834l-3.379.839-1.615.4a2.633,2.633,0,0,0-1.585,3.984,10.359,10.359,0,0,0,5.309,4.114,15.945,15.945,0,0,0,6.734.758c.548-.042,1.1-.108,1.665-.2l.643,2.592a1.709,1.709,0,0,0,3.317-.823l-.63-2.541a15.1,15.1,0,0,0,8.308-5.488,10.274,10.274,0,0,0,1.949-6.052,10.428,10.428,0,0,0-.311-2.482,9.261,9.261,0,0,0-7.821-7.354,42.809,42.809,0,0,0-7.576-.6l-1.992-8.034A3.877,3.877,0,0,1,258.09,61.5a2.195,2.195,0,0,0,2.317.887l4.54-1.126a2.779,2.779,0,0,0,1.581-4.314c-2.713-3.844-7.34-5.222-13.089-4.275l-.63-2.541a1.709,1.709,0,1,0-3.317.823l.63,2.541q-.81.261-1.572.573a16.045,16.045,0,0,0-5.628,3.7m16.2,17.811c2.215.276,3.818.977,4.28,2.843a3.808,3.808,0,0,1-2.456,4.515Zm-5.5-7.989a8.239,8.239,0,0,1-1.842-.517,3.475,3.475,0,0,1-2.194-2.444,3.272,3.272,0,0,1,.774-3.281,4.549,4.549,0,0,1,1.475-.964Z" transform="translate(-39.943 -8.128)" fill="#ffc13b"/>
+        <path id="Tracciato_1270" data-name="Tracciato 1270" d="M424.326,212.735H239.238a10.523,10.523,0,0,1-10.522-10.522V188.368a10.522,10.522,0,0,1,10.522-10.522H424.326a10.521,10.521,0,0,1,10.522,10.522v13.845a10.522,10.522,0,0,1-10.522,10.522" transform="translate(-38.068 -29.601)" fill="#ffc13b"/>
+        <rect id="Rettangolo_688" data-name="Rettangolo 688" width="206.132" height="34.889" rx="12.623" transform="translate(190.648 148.245)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_1" data-name="Linea 1" y1="24.707" transform="translate(207.165 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_2" data-name="Linea 2" y1="24.707" transform="translate(224.475 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_3" data-name="Linea 3" y1="24.707" transform="translate(241.785 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_4" data-name="Linea 4" y1="24.707" transform="translate(259.095 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_5" data-name="Linea 5" y1="24.707" transform="translate(276.404 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_6" data-name="Linea 6" y1="24.707" transform="translate(293.714 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_7" data-name="Linea 7" y1="24.707" transform="translate(311.024 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_8" data-name="Linea 8" y1="24.707" transform="translate(328.334 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_9" data-name="Linea 9" y1="24.707" transform="translate(345.644 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_10" data-name="Linea 10" y1="24.707" transform="translate(362.953 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_11" data-name="Linea 11" y1="24.707" transform="translate(380.263 152.917)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1271" data-name="Tracciato 1271" d="M378.812,254.591H193.724A10.523,10.523,0,0,1,183.2,244.069V230.224A10.522,10.522,0,0,1,193.724,219.7H378.812a10.521,10.521,0,0,1,10.521,10.522v13.845a10.522,10.522,0,0,1-10.521,10.522" transform="translate(-30.493 -36.568)" fill="#ffc13b"/>
+        <rect id="Rettangolo_689" data-name="Rettangolo 689" width="206.132" height="34.889" rx="12.623" transform="translate(152.709 183.135)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_12" data-name="Linea 12" y1="24.707" transform="translate(169.226 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_13" data-name="Linea 13" y1="24.707" transform="translate(186.536 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_14" data-name="Linea 14" y1="24.707" transform="translate(203.846 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_15" data-name="Linea 15" y1="24.707" transform="translate(221.156 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_16" data-name="Linea 16" y1="24.707" transform="translate(238.465 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_17" data-name="Linea 17" y1="24.707" transform="translate(255.775 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_18" data-name="Linea 18" y1="24.707" transform="translate(273.085 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_19" data-name="Linea 19" y1="24.707" transform="translate(290.395 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_20" data-name="Linea 20" y1="24.707" transform="translate(307.704 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_21" data-name="Linea 21" y1="24.707" transform="translate(325.014 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_22" data-name="Linea 22" y1="24.707" transform="translate(342.324 188.225)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1272" data-name="Tracciato 1272" d="M424.326,296.446H239.238a10.522,10.522,0,0,1-10.522-10.522V272.079a10.522,10.522,0,0,1,10.522-10.522H424.326a10.521,10.521,0,0,1,10.522,10.522v13.845a10.521,10.521,0,0,1-10.522,10.522" transform="translate(-38.068 -43.534)" fill="#ffc13b"/>
+        <rect id="Rettangolo_690" data-name="Rettangolo 690" width="206.132" height="34.889" rx="12.623" transform="translate(190.648 218.023)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_23" data-name="Linea 23" y1="24.707" transform="translate(207.165 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_24" data-name="Linea 24" y1="24.707" transform="translate(224.475 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_25" data-name="Linea 25" y1="24.707" transform="translate(241.785 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_26" data-name="Linea 26" y1="24.707" transform="translate(259.095 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_27" data-name="Linea 27" y1="24.707" transform="translate(276.404 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_28" data-name="Linea 28" y1="24.707" transform="translate(293.714 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_29" data-name="Linea 29" y1="24.707" transform="translate(311.024 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_30" data-name="Linea 30" y1="24.707" transform="translate(328.334 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_31" data-name="Linea 31" y1="24.707" transform="translate(345.644 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_32" data-name="Linea 32" y1="24.707" transform="translate(362.953 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_33" data-name="Linea 33" y1="24.707" transform="translate(380.263 222.695)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1273" data-name="Tracciato 1273" d="M400.836,338.3H215.748a10.523,10.523,0,0,1-10.522-10.522V313.936a10.522,10.522,0,0,1,10.522-10.522H400.836a10.521,10.521,0,0,1,10.522,10.522v13.845A10.522,10.522,0,0,1,400.836,338.3" transform="translate(-34.158 -50.501)" fill="#ffc13b"/>
+        <rect id="Rettangolo_691" data-name="Rettangolo 691" width="206.132" height="34.889" rx="12.623" transform="translate(171.068 252.913)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_34" data-name="Linea 34" y1="24.707" transform="translate(187.585 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_35" data-name="Linea 35" y1="24.707" transform="translate(204.895 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_36" data-name="Linea 36" y1="24.707" transform="translate(222.205 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_37" data-name="Linea 37" y1="24.707" transform="translate(239.515 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_38" data-name="Linea 38" y1="24.707" transform="translate(256.824 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_39" data-name="Linea 39" y1="24.707" transform="translate(274.134 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_40" data-name="Linea 40" y1="24.707" transform="translate(291.444 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_41" data-name="Linea 41" y1="24.707" transform="translate(308.754 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_42" data-name="Linea 42" y1="24.707" transform="translate(326.063 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_43" data-name="Linea 43" y1="24.707" transform="translate(343.373 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_44" data-name="Linea 44" y1="24.707" transform="translate(360.683 258.004)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1274" data-name="Tracciato 1274" d="M400.836,380.4H215.748a10.523,10.523,0,0,1-10.522-10.522V356.028a10.522,10.522,0,0,1,10.522-10.522H400.836a10.521,10.521,0,0,1,10.522,10.522v13.845A10.522,10.522,0,0,1,400.836,380.4" transform="translate(-34.158 -57.507)" fill="#ffc13b"/>
+        <rect id="Rettangolo_692" data-name="Rettangolo 692" width="206.132" height="34.889" rx="12.623" transform="translate(171.068 287.999)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_45" data-name="Linea 45" y1="24.707" transform="translate(187.585 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_46" data-name="Linea 46" y1="24.707" transform="translate(204.895 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_47" data-name="Linea 47" y1="24.707" transform="translate(222.205 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_48" data-name="Linea 48" y1="24.707" transform="translate(239.515 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_49" data-name="Linea 49" y1="24.707" transform="translate(256.824 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_50" data-name="Linea 50" y1="24.707" transform="translate(274.134 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_51" data-name="Linea 51" y1="24.707" transform="translate(291.444 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_52" data-name="Linea 52" y1="24.707" transform="translate(308.754 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_53" data-name="Linea 53" y1="24.707" transform="translate(326.063 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_54" data-name="Linea 54" y1="24.707" transform="translate(343.373 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_55" data-name="Linea 55" y1="24.707" transform="translate(360.683 293.09)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1275" data-name="Tracciato 1275" d="M371.26,422.014H186.172a10.523,10.523,0,0,1-10.522-10.522V397.647a10.522,10.522,0,0,1,10.522-10.522H371.26a10.521,10.521,0,0,1,10.522,10.522v13.845a10.522,10.522,0,0,1-10.522,10.522" transform="translate(-29.236 -64.434)" fill="#ffc13b"/>
+        <rect id="Rettangolo_693" data-name="Rettangolo 693" width="206.132" height="34.889" rx="12.623" transform="translate(146.415 322.691)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_56" data-name="Linea 56" y1="24.707" transform="translate(162.932 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_57" data-name="Linea 57" y1="24.707" transform="translate(180.242 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_58" data-name="Linea 58" y1="24.707" transform="translate(197.552 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_59" data-name="Linea 59" y1="24.707" transform="translate(214.861 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_60" data-name="Linea 60" y1="24.707" transform="translate(232.171 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_61" data-name="Linea 61" y1="24.707" transform="translate(249.481 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_62" data-name="Linea 62" y1="24.707" transform="translate(266.79 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_63" data-name="Linea 63" y1="24.707" transform="translate(284.1 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_64" data-name="Linea 64" y1="24.707" transform="translate(301.41 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_65" data-name="Linea 65" y1="24.707" transform="translate(318.72 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <line id="Linea_66" data-name="Linea 66" y1="24.707" transform="translate(336.029 327.782)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1276" data-name="Tracciato 1276" d="M439.741,347.655c45.817,26.152,104.625,10.161,130.716-35.545,26.19-45.881,10.146-104.679-35.632-130.579-46.018-26.036-104.151-10.279-130.349,35.331-26.265,45.728-10.349,104.757,35.265,130.794" transform="translate(-65.213 -28.125)" fill="#ffc13b"/>
+        <path id="Tracciato_1277" data-name="Tracciato 1277" d="M439.741,347.655c45.817,26.152,104.625,10.161,130.716-35.545,26.19-45.881,10.146-104.679-35.632-130.579-46.018-26.036-104.151-10.279-130.349,35.331C378.21,262.59,394.126,321.618,439.741,347.655Z" transform="translate(-65.213 -28.125)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1278" data-name="Tracciato 1278" d="M453.8,334.19c36.164,20.642,82.581,8.02,103.175-28.057,20.673-36.213,8.009-82.624-28.124-103.067a75.556,75.556,0,0,0-102.886,27.887c-20.732,36.094-8.17,82.686,27.835,103.237" transform="translate(-69.233 -32.15)" fill="#ffe8b6"/>
+        <path id="Tracciato_1279" data-name="Tracciato 1279" d="M499.393,247.357a15.153,15.153,0,0,0-13.025,7.8c-3.424,5.949-2.637,10.88-.182,15.147a39.649,39.649,0,0,0,6.588,7.982c.632.626,1.258,1.235,1.868,1.839l-6.417,11.15a6.8,6.8,0,0,1-1.49-2.5,6.335,6.335,0,0,1-.118-3.416,2.717,2.717,0,0,0-1.259-2.973l-4.6-2.649-2.2-1.265a4.015,4.015,0,0,0-5.952,2.7,15.8,15.8,0,0,0,1.491,10.134,24.326,24.326,0,0,0,6.607,7.95c.646.533,1.328,1.046,2.038,1.543l-2.031,3.529a2.606,2.606,0,1,0,4.517,2.6l1.991-3.46c5.471,2.837,10.6,3.579,14.937,2.743a15.675,15.675,0,0,0,8.537-4.6,15.992,15.992,0,0,0,2.281-3.058,14.126,14.126,0,0,0-.833-16.353,65.4,65.4,0,0,0-7.7-8.665l6.3-10.941a5.918,5.918,0,0,1,1.393,4.884,3.344,3.344,0,0,0,1.611,3.423l6.183,3.558a4.238,4.238,0,0,0,6.3-3.072c1.078-7.1-2.555-13.5-9.878-18.533l1.991-3.461a2.606,2.606,0,0,0-4.518-2.6l-1.991,3.46c-.778-.379-1.556-.725-2.333-1.031a24.461,24.461,0,0,0-10.1-1.876m-1,36.707c2.144,2.644,3.166,5.109,1.7,7.651-1.5,2.611-4.364,3.5-7.471,2.371Zm2.39-14.6a12.556,12.556,0,0,1-1.48-2.514,5.3,5.3,0,0,1,.169-5.008,4.991,4.991,0,0,1,4.318-2.79,6.965,6.965,0,0,1,2.641.5Z" transform="translate(-78.616 -40.861)" fill="#ffc13b"/>
+      </g>
+    </g>
+  </g>
+</svg>

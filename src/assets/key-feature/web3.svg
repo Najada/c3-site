@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206.562" height="169.475" viewBox="0 0 206.562 169.475">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_701" data-name="Rettangolo 701" width="169.813" height="103.474" rx="13" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_1978" data-name="Raggruppa 1978" transform="translate(-697.438 -2400.257)">
+    <g id="Raggruppa_1849" data-name="Raggruppa 1849" transform="translate(697.438 2468.159) rotate(-11)">
+      <g id="Raggruppa_1806" data-name="Raggruppa 1806" clip-path="url(#clip-path)">
+        <path id="Tracciato_1280" data-name="Tracciato 1280" d="M163.823,103.534H6.55A6.05,6.05,0,0,1,.5,97.484V6.55A6.05,6.05,0,0,1,6.55.5H163.823a6.05,6.05,0,0,1,6.05,6.05V97.484a6.05,6.05,0,0,1-6.05,6.05" transform="translate(-0.28 -0.28)" fill="#c6def5"/>
+        <rect id="Rettangolo_700" data-name="Rettangolo 700" width="169.373" height="103.034" rx="13.748" transform="translate(0.22 0.22)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1281" data-name="Tracciato 1281" d="M56.62,153.033H27.056a.829.829,0,0,1-.829-.828V146.15a.829.829,0,0,1,.829-.828H56.62a.828.828,0,0,1,.828.828V152.2a.828.828,0,0,1-.828.828" transform="translate(-14.685 -81.37)" fill="#f8f8f8"/>
+        <path id="Tracciato_1282" data-name="Tracciato 1282" d="M53.529,53.3H29.586a3.864,3.864,0,0,1-3.859-3.859V36.406a3.864,3.864,0,0,1,3.859-3.859H53.529a3.864,3.864,0,0,1,3.859,3.859V49.441A3.864,3.864,0,0,1,53.529,53.3M29.586,32.987a3.423,3.423,0,0,0-3.419,3.419V49.441a3.423,3.423,0,0,0,3.419,3.419H53.529a3.423,3.423,0,0,0,3.419-3.419V36.406a3.423,3.423,0,0,0-3.419-3.419Z" transform="translate(-14.405 -18.224)" fill="#f8f8f8"/>
+        <path id="Tracciato_1283" data-name="Tracciato 1283" d="M145.334,153.033H115.77a.829.829,0,0,1-.829-.828V146.15a.829.829,0,0,1,.829-.828h29.564a.828.828,0,0,1,.828.828V152.2a.828.828,0,0,1-.828.828" transform="translate(-64.359 -81.37)" fill="#f8f8f8"/>
+        <path id="Tracciato_1284" data-name="Tracciato 1284" d="M234.048,153.033H204.484a.829.829,0,0,1-.829-.828V146.15a.829.829,0,0,1,.829-.828h29.564a.828.828,0,0,1,.828.828V152.2a.828.828,0,0,1-.828.828" transform="translate(-114.032 -81.37)" fill="#f8f8f8"/>
+        <path id="Tracciato_1285" data-name="Tracciato 1285" d="M322.762,153.033H293.2a.829.829,0,0,1-.829-.828V146.15a.829.829,0,0,1,.829-.828h29.564a.828.828,0,0,1,.828.828V152.2a.828.828,0,0,1-.828.828" transform="translate(-163.706 -81.37)" fill="#f8f8f8"/>
+        <path id="Tracciato_1286" data-name="Tracciato 1286" d="M272.908,187.151H204.161a.828.828,0,0,1-.828-.828v-6.054a.828.828,0,0,1,.828-.828h68.747a.828.828,0,0,1,.828.828v6.054a.828.828,0,0,1-.828.828" transform="translate(-113.852 -100.474)" fill="#f8f8f8"/>
+        <path id="Tracciato_1287" data-name="Tracciato 1287" d="M311.019,53.056H309.7a3.256,3.256,0,0,0-3.252-3.252v-1.32a4.578,4.578,0,0,1,4.572,4.572" transform="translate(-171.589 -27.148)" fill="#f8f8f8"/>
+        <path id="Tracciato_1288" data-name="Tracciato 1288" d="M315.425,47.6H314.1a7.137,7.137,0,0,0-7.129-7.129v-1.32a8.459,8.459,0,0,1,8.449,8.449" transform="translate(-171.885 -21.92)" fill="#f8f8f8"/>
+        <path id="Tracciato_1289" data-name="Tracciato 1289" d="M320.846,41.087h-1.32a11.132,11.132,0,0,0-11.119-11.119v-1.32a12.454,12.454,0,0,1,12.439,12.439" transform="translate(-172.686 -16.041)" fill="#f8f8f8"/>
+      </g>
+    </g>
+    <path id="Tracciato_1310" data-name="Tracciato 1310" d="M0,5c5.686,0,5.686,6.986,11.371,6.986S17.057,5,22.743,5s5.686,6.986,11.371,6.986S39.8,5,45.485,5s5.686,6.986,11.371,6.986S62.542,5,68.228,5s5.686,6.986,11.371,6.986S85.286,5,90.972,5s5.686,6.986,11.373,6.986" transform="translate(904 2556.757) rotate(180)" fill="none" stroke="#03d06d" stroke-width="2"/>
+    <g id="Ellisse_56" data-name="Ellisse 56" transform="translate(831 2429.257) rotate(180)" fill="none" stroke="#5dbc7c" stroke-width="2">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="13.5" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="496" height="406.947" viewBox="0 0 496 406.947">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_701" data-name="Rettangolo 701" width="407.758" height="248.465" rx="13" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_1978" data-name="Raggruppa 1978" transform="translate(-697.438 -2400.257)" opacity="0.231">
+    <g id="Raggruppa_1849" data-name="Raggruppa 1849" transform="translate(697.438 2563.304) rotate(-11)">
+      <g id="Raggruppa_1806" data-name="Raggruppa 1806" clip-path="url(#clip-path)">
+        <path id="Tracciato_1280" data-name="Tracciato 1280" d="M392.174,247.408H14.528A14.527,14.527,0,0,1,0,232.881V14.528A14.527,14.527,0,0,1,14.528,0H392.174A14.527,14.527,0,0,1,406.7,14.528V232.881a14.527,14.527,0,0,1-14.528,14.528" transform="translate(0.528 0.528)" fill="#c6def5"/>
+        <rect id="Rettangolo_700" data-name="Rettangolo 700" width="406.702" height="247.408" rx="13.748" transform="translate(0.529 0.528)" fill="none" stroke="#000" stroke-width="1"/>
+        <path id="Tracciato_1281" data-name="Tracciato 1281" d="M72.98,18.516H1.99A1.989,1.989,0,0,1,0,16.527V1.989A1.989,1.989,0,0,1,1.99,0H72.98a1.989,1.989,0,0,1,1.989,1.989V16.527a1.989,1.989,0,0,1-1.989,1.989" transform="translate(27.714 153.563)" fill="#f8f8f8"/>
+        <path id="Tracciato_1282" data-name="Tracciato 1282" d="M66.759,49.834H9.267A9.278,9.278,0,0,1,0,40.567V9.267A9.278,9.278,0,0,1,9.267,0H66.759a9.278,9.278,0,0,1,9.267,9.267v31.3a9.278,9.278,0,0,1-9.267,9.267M9.267,1.057A8.22,8.22,0,0,0,1.057,9.267v31.3a8.22,8.22,0,0,0,8.211,8.211H66.759a8.22,8.22,0,0,0,8.211-8.211V9.267a8.22,8.22,0,0,0-8.211-8.211Z" transform="translate(27.186 34.393)" fill="#f8f8f8"/>
+        <path id="Tracciato_1283" data-name="Tracciato 1283" d="M72.981,18.516H1.99A1.989,1.989,0,0,1,0,16.527V1.989A1.989,1.989,0,0,1,1.99,0H72.981a1.989,1.989,0,0,1,1.989,1.989V16.527a1.989,1.989,0,0,1-1.989,1.989" transform="translate(121.459 153.563)" fill="#f8f8f8"/>
+        <path id="Tracciato_1284" data-name="Tracciato 1284" d="M72.98,18.516H1.99A1.989,1.989,0,0,1,0,16.527V1.989A1.989,1.989,0,0,1,1.99,0H72.98a1.989,1.989,0,0,1,1.989,1.989V16.527a1.989,1.989,0,0,1-1.989,1.989" transform="translate(215.204 153.563)" fill="#f8f8f8"/>
+        <path id="Tracciato_1285" data-name="Tracciato 1285" d="M72.981,18.516H1.99A1.989,1.989,0,0,1,0,16.527V1.989A1.989,1.989,0,0,1,1.99,0H72.981a1.989,1.989,0,0,1,1.989,1.989V16.527a1.989,1.989,0,0,1-1.989,1.989" transform="translate(308.949 153.563)" fill="#f8f8f8"/>
+        <path id="Tracciato_1286" data-name="Tracciato 1286" d="M167.066,18.516H1.989A1.989,1.989,0,0,1,0,16.527V1.989A1.989,1.989,0,0,1,1.989,0H167.066a1.989,1.989,0,0,1,1.989,1.989V16.527a1.989,1.989,0,0,1-1.989,1.989" transform="translate(214.864 189.616)" fill="#f8f8f8"/>
+        <path id="Tracciato_1287" data-name="Tracciato 1287" d="M10.979,10.979H7.809A7.818,7.818,0,0,0,0,3.17V0A10.992,10.992,0,0,1,10.979,10.979" transform="translate(323.825 51.233)" fill="#f8f8f8"/>
+        <path id="Tracciato_1288" data-name="Tracciato 1288" d="M20.288,20.288h-3.17A17.137,17.137,0,0,0,0,3.17V0A20.311,20.311,0,0,1,20.288,20.288" transform="translate(324.384 41.368)" fill="#f8f8f8"/>
+        <path id="Tracciato_1289" data-name="Tracciato 1289" d="M29.87,29.87H26.7A26.731,26.731,0,0,0,0,3.17V0A29.9,29.9,0,0,1,29.87,29.87" transform="translate(325.896 30.273)" fill="#f8f8f8"/>
+      </g>
+    </g>
+    <path id="Tracciato_1310" data-name="Tracciato 1310" d="M0,0C13.653,0,13.653,16.775,27.305,16.775S40.958,0,54.61,0,68.263,16.775,81.916,16.775,95.568,0,109.22,0s13.652,16.775,27.3,16.775S150.178,0,163.831,0s13.652,16.775,27.3,16.775S204.79,0,218.445,0,232.1,16.775,245.753,16.775" transform="translate(1193.438 2764.042) rotate(180)" fill="none" stroke="#03d06d" stroke-width="2"/>
+    <g id="Ellisse_56" data-name="Ellisse 56" transform="translate(1018.149 2469.892) rotate(180)" fill="none" stroke="#5dbc7c" stroke-width="2">
+      <circle cx="34.818" cy="34.818" r="34.818" stroke="none"/>
+      <circle cx="34.818" cy="34.818" r="33.818" fill="none"/>
+    </g>
+  </g>
+</svg>

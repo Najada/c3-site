@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1618.785" height="530.296" viewBox="0 0 1618.785 530.296">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.049" y1="0.281" x2="-0.351" y2="1.076" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#f9fbff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.049" y1="0.281" x2="0.051" y2="1.103" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#c3e8ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Raggruppa_1991" data-name="Raggruppa 1991" transform="translate(-176.608 -165)">
+    <rect id="Rettangolo_511" data-name="Rettangolo 511" width="355" height="355" rx="177.5" transform="matrix(-0.259, -0.966, 0.966, -0.259, 1452.489, 695.296)" fill="url(#linear-gradient)"/>
+    <rect id="Rettangolo_526" data-name="Rettangolo 526" width="259" height="259" rx="129.5" transform="translate(176.608 165)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

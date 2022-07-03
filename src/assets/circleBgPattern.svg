@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1672.547" height="509.662" viewBox="0 0 1672.547 509.662">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.028" y1="0.951" x2="-0.184" y2="0.099" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#c3e8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.049" y1="0.281" x2="0.051" y2="1.103" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Raggruppa_1988" data-name="Raggruppa 1988" transform="translate(-112 -5041)">
+    <rect id="Rettangolo_697" data-name="Rettangolo 697" width="246.581" height="246.581" rx="123.29" transform="translate(1784.547 5337.117) rotate(120)" fill="url(#linear-gradient)"/>
+    <rect id="Rettangolo_696" data-name="Rettangolo 696" width="401" height="401" rx="200.5" transform="translate(112 5041)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

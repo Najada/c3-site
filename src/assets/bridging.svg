@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="834.778" height="842.037" viewBox="0 0 834.778 842.037">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#c3e8ff"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_593" data-name="Rettangolo 593" width="499.676" height="282.702" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rettangolo_647" data-name="Rettangolo 647" width="627.466" height="283.629" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Raggruppa_1799" data-name="Raggruppa 1799" transform="translate(-916.162 -2587.686)">
+    <path id="Tracciato_1040" data-name="Tracciato 1040" d="M500,218.957c56.442,1.919,85.645,67.109,130.559,101.345,43.421,33.1,96.4,51.147,127.949,95.7,40.943,57.822,93.329,124.009,76.327,192.789-17.026,68.874-97.453,97.487-157.445,135.361-55.763,35.2-111.835,83.2-177.389,76.027-63.928-6.992-105.385-66.918-151.271-111.975-38.8-38.1-26.045-94.112-48.385-143.686C275.362,509.081,190.2,463.13,212.865,406.7c22.647-56.372,99.116-62.26,149.962-95.506C410.1,280.287,443.55,217.037,500,218.957" transform="matrix(0.485, -0.875, 0.875, 0.485, 626.631, 3214.596)" fill="url(#linear-gradient)"/>
+    <g id="Raggruppa_1713" data-name="Raggruppa 1713" transform="translate(916.162 2866.89)">
+      <rect id="Rettangolo_598" data-name="Rettangolo 598" width="10.608" height="74.82" transform="translate(483.012 111.92)" fill="#afbcdb"/>
+      <rect id="Rettangolo_599" data-name="Rettangolo 599" width="10.608" height="74.82" transform="translate(483.012 111.92)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_600" data-name="Rettangolo 600" width="10.608" height="52.209" transform="translate(507.366 134.531)" fill="#afbcdb"/>
+      <rect id="Rettangolo_601" data-name="Rettangolo 601" width="10.608" height="52.209" transform="translate(507.366 134.531)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_602" data-name="Rettangolo 602" width="10.608" height="37.812" transform="translate(531.72 148.928)" fill="#afbcdb"/>
+      <rect id="Rettangolo_603" data-name="Rettangolo 603" width="10.608" height="37.812" transform="translate(531.72 148.928)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_604" data-name="Rettangolo 604" width="10.608" height="28.582" transform="translate(556.074 158.158)" fill="#afbcdb"/>
+      <rect id="Rettangolo_605" data-name="Rettangolo 605" width="10.608" height="28.582" transform="translate(556.074 158.158)" fill="none" stroke="#000" stroke-width="1"/>
+      <rect id="Rettangolo_606" data-name="Rettangolo 606" width="10.608" height="23.399" transform="translate(580.428 163.341)" fill="#afbcdb"/>
+      <rect id="Rettangolo_607" data-name="Rettangolo 607" width="10.608" height="23.399" transform="translate(580.428 163.341)" fill="none" stroke="#000" stroke-width="1"/>
+      <g id="Raggruppa_1712" data-name="Raggruppa 1712">
+        <g id="Raggruppa_1711" data-name="Raggruppa 1711" clip-path="url(#clip-path-2)">
+          <path id="Tracciato_1021" data-name="Tracciato 1021" d="M615.39,186.74H604.782V170.256C522.157,167.886,455.8,110.37,455.8,40.012h10.608c0,65.944,64.325,119.607,143.441,119.712a5.342,5.342,0,0,1,5.537,5.256v21.76Z" fill="#afbcdb"/>
+          <path id="Tracciato_1022" data-name="Tracciato 1022" d="M615.39,186.74H604.782V170.256C522.157,167.886,455.8,110.37,455.8,40.012h10.608c0,65.944,64.325,119.607,143.441,119.712a5.342,5.342,0,0,1,5.537,5.256v21.76Z" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_608" data-name="Rettangolo 608" width="10.608" height="74.82" transform="translate(131.333 111.92)" fill="#afbcdb"/>
+          <rect id="Rettangolo_609" data-name="Rettangolo 609" width="10.608" height="74.82" transform="translate(131.333 111.92)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_610" data-name="Rettangolo 610" width="10.608" height="52.209" transform="translate(106.979 134.531)" fill="#afbcdb"/>
+          <rect id="Rettangolo_611" data-name="Rettangolo 611" width="10.608" height="52.209" transform="translate(106.979 134.531)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_612" data-name="Rettangolo 612" width="10.608" height="37.812" transform="translate(82.625 148.928)" fill="#afbcdb"/>
+          <rect id="Rettangolo_613" data-name="Rettangolo 613" width="10.608" height="37.812" transform="translate(82.625 148.928)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_614" data-name="Rettangolo 614" width="10.608" height="28.582" transform="translate(58.271 158.158)" fill="#afbcdb"/>
+          <rect id="Rettangolo_615" data-name="Rettangolo 615" width="10.608" height="28.582" transform="translate(58.271 158.158)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_616" data-name="Rettangolo 616" width="10.608" height="23.399" transform="translate(33.917 163.341)" fill="#afbcdb"/>
+          <rect id="Rettangolo_617" data-name="Rettangolo 617" width="10.608" height="23.399" transform="translate(33.917 163.341)" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1023" data-name="Tracciato 1023" d="M20.171,186.74H9.563V165.023a5.321,5.321,0,0,1,5.537-5.3c79.116-.1,143.441-53.768,143.441-119.712h10.608c0,70.358-66.353,127.874-148.978,130.244Z" fill="#afbcdb"/>
+          <path id="Tracciato_1024" data-name="Tracciato 1024" d="M20.171,186.74H9.563V165.023a5.321,5.321,0,0,1,5.537-5.3c79.116-.1,143.441-53.768,143.441-119.712h10.608c0,70.358-66.353,127.874-148.978,130.244Z" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_618" data-name="Rettangolo 618" width="10.608" height="74.82" transform="translate(428.202 111.92)" fill="#afbcdb"/>
+          <rect id="Rettangolo_619" data-name="Rettangolo 619" width="10.608" height="74.82" transform="translate(428.202 111.92)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_620" data-name="Rettangolo 620" width="10.608" height="52.209" transform="translate(403.848 134.531)" fill="#afbcdb"/>
+          <rect id="Rettangolo_621" data-name="Rettangolo 621" width="10.608" height="52.209" transform="translate(403.848 134.531)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_622" data-name="Rettangolo 622" width="10.608" height="37.812" transform="translate(379.494 148.928)" fill="#afbcdb"/>
+          <rect id="Rettangolo_623" data-name="Rettangolo 623" width="10.608" height="37.812" transform="translate(379.494 148.928)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_624" data-name="Rettangolo 624" width="10.608" height="28.582" transform="translate(355.14 158.158)" fill="#afbcdb"/>
+          <rect id="Rettangolo_625" data-name="Rettangolo 625" width="10.608" height="28.582" transform="translate(355.14 158.158)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_626" data-name="Rettangolo 626" width="10.608" height="23.399" transform="translate(330.786 163.341)" fill="#afbcdb"/>
+          <rect id="Rettangolo_627" data-name="Rettangolo 627" width="10.608" height="23.399" transform="translate(330.786 163.341)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_628" data-name="Rettangolo 628" width="10.608" height="21.717" transform="translate(306.432 165.023)" fill="#afbcdb"/>
+          <rect id="Rettangolo_629" data-name="Rettangolo 629" width="10.608" height="21.717" transform="translate(306.432 165.023)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_630" data-name="Rettangolo 630" width="10.608" height="23.369" transform="translate(282.078 163.371)" fill="#afbcdb"/>
+          <rect id="Rettangolo_631" data-name="Rettangolo 631" width="10.608" height="23.369" transform="translate(282.078 163.371)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_632" data-name="Rettangolo 632" width="10.608" height="28.522" transform="translate(257.724 158.218)" fill="#afbcdb"/>
+          <rect id="Rettangolo_633" data-name="Rettangolo 633" width="10.608" height="28.522" transform="translate(257.724 158.218)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_634" data-name="Rettangolo 634" width="10.608" height="37.705" transform="translate(233.37 149.035)" fill="#afbcdb"/>
+          <rect id="Rettangolo_635" data-name="Rettangolo 635" width="10.608" height="37.705" transform="translate(233.37 149.035)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_636" data-name="Rettangolo 636" width="10.608" height="52.057" transform="translate(209.016 134.683)" fill="#afbcdb"/>
+          <rect id="Rettangolo_637" data-name="Rettangolo 637" width="10.608" height="52.057" transform="translate(209.016 134.683)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_638" data-name="Rettangolo 638" width="10.608" height="74.547" transform="translate(184.662 112.193)" fill="#afbcdb"/>
+          <rect id="Rettangolo_639" data-name="Rettangolo 639" width="10.608" height="74.547" transform="translate(184.662 112.193)" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1025" data-name="Tracciato 1025" d="M311.736,170.332c-85.072,0-154.283-58.461-154.283-130.321h10.609c0,66.01,64.452,119.713,143.674,119.713S455.41,106.021,455.41,40.011h10.608c0,71.86-69.211,130.321-154.282,130.321" fill="#afbcdb"/>
+          <path id="Tracciato_1026" data-name="Tracciato 1026" d="M311.736,170.332c-85.072,0-154.283-58.461-154.283-130.321h10.609c0,66.01,64.452,119.713,143.674,119.713S455.41,106.021,455.41,40.011h10.608C466.018,111.871,396.807,170.332,311.736,170.332Z" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_640" data-name="Rettangolo 640" width="15.155" height="243.858" transform="translate(155.983 15.837)" fill="#c6def5"/>
+          <rect id="Rettangolo_641" data-name="Rettangolo 641" width="15.155" height="243.858" transform="translate(155.983 15.837)" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_642" data-name="Rettangolo 642" width="15.155" height="243.858" transform="translate(453.96 15.837)" fill="#c6def5"/>
+          <rect id="Rettangolo_643" data-name="Rettangolo 643" width="15.155" height="243.858" transform="translate(453.96 15.837)" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1027" data-name="Tracciato 1027" d="M444.5,257.536l-11.756,15.38c-2.907,3.8-.782,9.581,3.97,10.16a7.242,7.242,0,0,0,.876.053h48.03c5.115-.083,7.806-6.184,4.7-10.249L478.6,257.536a6.613,6.613,0,0,1-1.206-2.78,7.173,7.173,0,0,0-7.039-5.8h-17.6a7.173,7.173,0,0,0-7.039,5.8,6.639,6.639,0,0,1-1.206,2.78" fill="#7fabbc"/>
+          <path id="Tracciato_1028" data-name="Tracciato 1028" d="M444.5,257.536l-11.756,15.38c-2.907,3.8-.782,9.581,3.97,10.16a7.242,7.242,0,0,0,.876.053h48.03c5.115-.083,7.806-6.184,4.7-10.249L478.6,257.536a6.613,6.613,0,0,1-1.206-2.78,7.173,7.173,0,0,0-7.039-5.8h-17.6a7.173,7.173,0,0,0-7.039,5.8A6.639,6.639,0,0,1,444.5,257.536Z" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1029" data-name="Tracciato 1029" d="M146.531,257.536l-11.756,15.38c-2.907,3.8-.782,9.581,3.97,10.16a7.242,7.242,0,0,0,.876.053h48.03c5.115-.083,7.806-6.184,4.7-10.249l-11.727-15.343a6.614,6.614,0,0,1-1.206-2.78,7.173,7.173,0,0,0-7.039-5.8h-17.6a7.172,7.172,0,0,0-7.039,5.8,6.639,6.639,0,0,1-1.206,2.78" fill="#7fabbc"/>
+          <path id="Tracciato_1030" data-name="Tracciato 1030" d="M146.531,257.536l-11.756,15.38c-2.907,3.8-.782,9.581,3.97,10.16a7.242,7.242,0,0,0,.876.053h48.03c5.115-.083,7.806-6.184,4.7-10.249l-11.727-15.343a6.614,6.614,0,0,1-1.206-2.78,7.173,7.173,0,0,0-7.039-5.8h-17.6a7.172,7.172,0,0,0-7.039,5.8A6.639,6.639,0,0,1,146.531,257.536Z" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1031" data-name="Tracciato 1031" d="M477.51,20.566v6.926a7.176,7.176,0,0,1-7.168,7.183h-1.228v12.9H453.96v-12.9h-1.228a7.175,7.175,0,0,1-7.168-7.183V20.566a7.172,7.172,0,0,1,7.168-7.168h17.61a7.172,7.172,0,0,1,7.168,7.168" fill="#415156"/>
+          <path id="Tracciato_1032" data-name="Tracciato 1032" d="M179.534,20.566v6.926a7.176,7.176,0,0,1-7.168,7.183h-1.228v12.9H155.983v-12.9h-1.227a7.176,7.176,0,0,1-7.169-7.183V20.566a7.172,7.172,0,0,1,7.169-7.168h17.61a7.172,7.172,0,0,1,7.168,7.168" fill="#415156"/>
+          <path id="Tracciato_1033" data-name="Tracciato 1033" d="M477.51,7.668V27.492a7.175,7.175,0,0,1-7.168,7.182h-17.61a7.175,7.175,0,0,1-7.168-7.182V7.668A7.173,7.173,0,0,1,452.732.5h17.61a7.173,7.173,0,0,1,7.168,7.168" fill="#c6def5"/>
+          <path id="Tracciato_1034" data-name="Tracciato 1034" d="M477.51,7.668V27.492a7.175,7.175,0,0,1-7.168,7.182h-17.61a7.175,7.175,0,0,1-7.168-7.182V7.668A7.173,7.173,0,0,1,452.732.5h17.61A7.173,7.173,0,0,1,477.51,7.668Z" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1035" data-name="Tracciato 1035" d="M179.534,7.668V27.492a7.175,7.175,0,0,1-7.168,7.182h-17.61a7.175,7.175,0,0,1-7.169-7.182V7.668A7.174,7.174,0,0,1,154.756.5h17.61a7.173,7.173,0,0,1,7.168,7.168" fill="#c6def5"/>
+          <path id="Tracciato_1036" data-name="Tracciato 1036" d="M179.534,7.668V27.492a7.175,7.175,0,0,1-7.168,7.182h-17.61a7.175,7.175,0,0,1-7.169-7.182V7.668A7.174,7.174,0,0,1,154.756.5h17.61A7.173,7.173,0,0,1,179.534,7.668Z" fill="none" stroke="#000" stroke-width="1"/>
+          <rect id="Rettangolo_644" data-name="Rettangolo 644" width="15.155" height="34.174" transform="translate(155.983 191.119)" fill="#415156"/>
+          <rect id="Rettangolo_645" data-name="Rettangolo 645" width="15.155" height="34.174" transform="translate(453.96 191.12)" fill="#415156"/>
+          <path id="Tracciato_1037" data-name="Tracciato 1037" d="M626.966,187.031v20.328a6.921,6.921,0,0,1-6.92,6.921H7.421A6.921,6.921,0,0,1,.5,207.359V187.031a6.921,6.921,0,0,1,6.921-6.92H620.046a6.92,6.92,0,0,1,6.92,6.92" fill="#c6def5"/>
+          <path id="Rettangolo_646" data-name="Rettangolo 646" d="M6.92,0H619.545a6.921,6.921,0,0,1,6.921,6.921V27.248a6.921,6.921,0,0,1-6.921,6.921H6.921A6.921,6.921,0,0,1,0,27.248V6.92A6.92,6.92,0,0,1,6.92,0Z" transform="translate(0.5 180.111)" fill="none" stroke="#000" stroke-width="1"/>
+          <path id="Tracciato_1038" data-name="Tracciato 1038" d="M619.795,205.151H7.671A7.17,7.17,0,0,1,.5,197.98v9.128a7.17,7.17,0,0,0,7.17,7.171H619.795a7.171,7.171,0,0,0,7.171-7.171V197.98a7.171,7.171,0,0,1-7.171,7.171" fill="#7fabbc"/>
+          <path id="Tracciato_1039" data-name="Tracciato 1039" d="M619.795,205.151H7.671A7.17,7.17,0,0,1,.5,197.98v9.128a7.17,7.17,0,0,0,7.17,7.171H619.795a7.171,7.171,0,0,0,7.171-7.171V197.98A7.171,7.171,0,0,1,619.795,205.151Z" fill="none" stroke="#000" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

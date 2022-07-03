@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="344" viewBox="0 0 1920 344">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.354" y1="0.653" x2="0.584" y2="0.624" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00e275"/>
+      <stop offset="1" stop-color="#27bf76"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rettangolo_571" data-name="Rettangolo 571" width="1920" height="344" transform="translate(0 2302)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="1.028" y1="0.951" x2="-0.184" y2="0.099" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#c3e8ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.049" y1="0.281" x2="-0.351" y2="1.076" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f2fffe"/>
+      <stop offset="0.286" stop-color="#e0fee3"/>
+      <stop offset="0.774" stop-color="#c8e0fb"/>
+      <stop offset="1" stop-color="#f9fbff"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppo_di_maschere_4" data-name="Gruppo di maschere 4" transform="translate(0 -2302)" clip-path="url(#clip-path)">
+    <rect id="Rettangolo_590" data-name="Rettangolo 590" width="749" height="749" rx="374.5" transform="translate(1301.446 1897)" fill="url(#linear-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rettangolo_589" data-name="Rettangolo 589" width="192.841" height="192.841" rx="96.421" transform="translate(952.063 2302) rotate(82)" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <rect id="Rettangolo_591" data-name="Rettangolo 591" width="429.968" height="429.968" rx="214.984" transform="matrix(-0.469, -0.883, 0.883, -0.469, 43.2, 2852.997)" fill="url(#linear-gradient-3)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>
