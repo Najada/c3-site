@@ -6,7 +6,7 @@ import FeatureCard from 'components/feature-card.js';
 
 import Automated from 'assets/feature/automated.svg';
 import Card from 'assets/feature/card.svg';
-import Retire from 'assets/feature/retire.svg';
+import Retire from 'assets/feature/Retire.svg';
 import Wallet from 'assets/feature/wallet.svg';
 import FeatureCardColumn from 'components/feature-card-column';
 
