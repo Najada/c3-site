@@ -132,7 +132,7 @@ const styles = {
         justifyContent: 'center',
         flexDirection:'column',
         flexWrap: ['wrap', null, null, 'nowrap'],
-        pb: [0, 7, 0, null, 7],
+        pb: 7,
         h2: {
             fontSize: ['22px', null, '42px'],
             textAlign: 'center',

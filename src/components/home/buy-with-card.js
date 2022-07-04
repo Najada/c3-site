@@ -49,11 +49,9 @@ export default function BuyWithCard() {
                         <Heading as="h2" dangerouslySetInnerHTML={{ __html: 'You’re in good company' }} sx={styles.wrapper.title}>
                         </Heading>
                         <Text as="span" className="description" sx={styles.description}>
-                        {/* We’re working with the biggest and the best */}
                         </Text>
                         <List items={data.qualities}></List>
                     </Box>
-                    {/* <List items={data.features}></List> */}
                     <Link href={'https://docs.c3.app/'} variant="default">
                     <Button variant="whiteButton" aria-label={'gitbook'}>
                         {'SEE OUR GITBOOK'} <FaArrowRight></FaArrowRight>
@@ -99,8 +97,8 @@ const styles = {
         mb: '30px',
     },
     image: {
-        maxWidth: '449px',
-        maxHeight: '446px',
+        // maxWidth: '449px',
+        // maxHeight: '446px',
         my: [5, null, 0],
     },
     containerBoxT: {
@@ -108,12 +106,10 @@ const styles = {
         alignItems: 'center',
         justifyContent: 'space-between',
         flexWrap: ['wrap', null, null, 'nowrap'],
-        pt: [0, 7, 0, null, 7],
-        pb: [0, 7, 0, null, 7],
+        pt: [7, 7, 7, null, 7],
+        pb: [7, 7, 7, null, 7],
     },
     containerBox: {
-        // background: 'red',
-        // maxWidth: '1020px',
         background: '#FFFFFF 0% 0% no-repeat padding-box',
         boxShadow: '0px 3px 30px #4E69A529',
         border: '1px solid #EDF6FF',
@@ -128,21 +124,8 @@ const styles = {
         flexWrap: ['wrap', null, null, 'nowrap'],
         pb: [0, 7, 0, null, 7],
     },
-    contentBox: {
 
-        
-        // flexShrink: 0,
-        // px: [0, null, '30px', 0],
-        // textAlign: ['center', null, null, 'left'],
-        // width: ['100%', '80%', null, 340, 400, 430, null, 485],
-        // pb: ['50px', '60px', null, 0],
-        // mx: ['auto', null, null, 0],
-        // '.description': {
-        //   pr: [0, null, 6, 7, 6],
-        // },
-    },
     thumbnail: {
-        //maxWidth: '819px',
         display: 'inline-flex',
         position: 'relative',
         mr: 'auto',
@@ -153,15 +136,4 @@ const styles = {
             height: [310, 'auto'],
         },
     },
-    //   shapeBox: {
-    //    // maxWidth: '1024px',
-    //     top: '30px',
-    //     left: '30px',
-    //     position: 'absolute',
-    //     overflow: 'hidden',
-    //     bottom: 0,
-    //     right: 0,
-    //     zIndex: -1,
-    //     display: ['none', 'inline-block', 'none', null, 'inline-block'],
-    //   },
 };

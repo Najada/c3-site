@@ -46,7 +46,7 @@ const styles = {
         alignItems: 'center',
         justifyContent: 'center',
         flexWrap: ['wrap', null, null, 'nowrap'],
-        pb: [0, 7, 0, null, 7],
+        pb: 7,
     },
     contentBox: {
         flexShrink: 0,
