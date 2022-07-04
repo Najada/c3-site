@@ -39,6 +39,7 @@ const styles = {
       textAlign: 'center',
       font: 'normal normal bold 42px/53px Poppins',
       color: '#F9FBFF',
+      lineHeight: '1.2',
       mb: '17px',
       fontSize: ['22px', null, '42px']
     },
