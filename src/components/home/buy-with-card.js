@@ -102,6 +102,7 @@ const styles = {
         my: [5, null, 0],
     },
     containerBoxT: {
+        gap: [0, null, '140px'],
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'space-between',

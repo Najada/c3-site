@@ -9,11 +9,8 @@ export default function FeatureCard({
   btnUrl
 }) {
   return (
-    <Box sx={styles.card} style={{ backgroundImage: `url(${src})`, backgroundPosition: 'bottom right'}}>
-      {/* <Box sx={styles.wrapper}>
-        <Image src={src} alt={altText} sx={styles.img} />
-      </Box> */}
-      {/* <Box> */}
+    <Box sx={styles.card} style={{ backgroundImage: `url(${src})`,  backgroundPositionX: '90%',
+    backgroundPositionY: '90%',}}>
         <Heading sx={styles.title}>{title}</Heading>
         <Text sx={styles.subTitle}>{text}</Text>
         {btnUrl && (
@@ -23,8 +20,6 @@ export default function FeatureCard({
             </Button>
           </Link>
         )}
-      {/* </Box> */}
-
     </Box>
   );
 }
@@ -59,7 +54,6 @@ const styles = {
     flexShrink: 0,
     bottom: '0',
     right: 0,
-    // position: 'absolute',
     mr: [0],
     ml: 0,
   },
@@ -79,12 +73,6 @@ const styles = {
   },
   wrapper: {
     position: 'relative',
-    // width: '100%',
-    // display: 'flex',
-    // flexDirection: 'row',
-    // justifyContent: 'end',
-
     mt: '-132px',
-    
   },
 };

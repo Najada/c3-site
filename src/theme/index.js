@@ -308,7 +308,7 @@ export default {
       variant: 'buttons.defaultBtn',
       fontWeight: "900",
       color: '#03D06D',
-      bg: 'white',
+      bg: 'transparent',
       '&:hover': {
         boxShadow: 'rgba(94, 204, 119, 1) 0px 9px 20px -5px',
       },
