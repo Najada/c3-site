@@ -33,7 +33,7 @@ export default function Header({ className }) {
         <button class="dropbtn">{item.label} </button>
         <div class="dropdown-content">
           {item.elements.map((el, i) => (
-            <a  key={i} href={el.path}  target={el.isBlank ? "_blank" : ''} >{el.label}</a>
+            <a key={i} href={el.path} target={el.isBlank ? "_blank" : ''} >{el.label}</a>
           ))}
         </div>
       </div>
@@ -52,13 +52,11 @@ export default function Header({ className }) {
                 getItems(item, i)
               ))}
             </Flex>
-            <Button
-              className="donate__btn"
-              variant="primary"
-              aria-label="Get Started"
-            >
-              LAUNCH APP
-            </Button>
+            <Link href={'https://c3bridge.vercel.app/'} variant="default">
+              <Button variant="primary" aria-label={'LAUNCH APP'}>
+                {'LAUNCH APP'}
+              </Button>
+            </Link>
           </div>
 
 
@@ -95,13 +93,13 @@ const styles = {
     },
     '.dropdown-content': {
       display: 'none',
-      justifyContent:'start',
+      justifyContent: 'start',
       flexDirection: 'column',
       position: 'absolute',
       backgroundColor: 'white',
       minwidth: '160px',
       padding: '12px 16px',
-      zindex: '1', 
+      zindex: '1',
       a: {
         whiteSpace: 'nowrap',
         p: 0,

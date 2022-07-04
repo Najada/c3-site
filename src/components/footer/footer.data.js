@@ -10,8 +10,22 @@ export default {
       id: 2,
       isList: true,
       title: 'SOLUTIONS',
-      elements: [
-        'Businesses', 'DeFi Natives', 'Web3 Newcomers', 'Carbon markets'
+      elements: [ {
+        label: 'Businesses',
+        path: '/businesses'
+      },
+      {
+        label: 'DeFi Natives',
+        path: '/defi-natives'
+      },
+      {
+        label: 'Web3 Newcomers',
+        path: '/web3-newcomers'
+      },
+      {
+        label: 'Carbon markets',
+        path: '/carbon-markets'
+      },
       ],
     },
     {
@@ -19,7 +33,14 @@ export default {
       isList: true,
       title: 'INFO',
       elements: [
-        'Features', 'Incentives'
+        {
+          label: 'Features',
+          path: '/features'
+        },
+        {
+          label: 'Incentives',
+          path: '/incentives'
+        },
       ],
     },
     {
@@ -27,7 +48,14 @@ export default {
       isList: true,
       title: 'LEARN',
       elements: [
-       'Gitbook', 'Medium'
+        {
+          label: 'Gitbook',
+          path: 'https://docs.c3.app/'
+        },
+        {
+          label: 'Medium',
+          path: 'https://medium.com/@C3.app'
+        },
       ],
     },
     {
@@ -35,7 +63,10 @@ export default {
       isList: true,
       title: 'ADMIN',
       elements: [
-       'Privacy Policy'
+        {
+          label: 'Privacy Policy',
+          path: '/privacy-policy'
+        },
       ],
     },
   ],

@@ -21,7 +21,6 @@ export default function IndexPage() {
           <SEO title="C3" />
           <Banner />
           <KeyFeature />
-         
           <Feature />
           <WorkFlow title="GET STARTED IN MINUTES" showImage={true}/>
           <ServiceSection />

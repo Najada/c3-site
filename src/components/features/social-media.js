@@ -59,7 +59,7 @@ export default function SocialMedia() {
                             <FaMediumM style={{fontSize: '26px', marginRight: '10px'}} />         CHECK OUT OUR MEDIUM  <FaArrowRight />
                             </Button> 
                         </Link>
-                        <Link href={'#'} variant="default">
+                        <Link href={'https://docs.c3.app/'} variant="default">
                             <Button variant="whiteButton" aria-label='CHECK OUT OUR MEDIUM'>
                             <Image src={GIT}></Image>     READ OUR GITBOOK  <FaArrowRight />
                             </Button>

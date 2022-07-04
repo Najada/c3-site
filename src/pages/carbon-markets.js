@@ -17,7 +17,7 @@ const data = {
       'Connect via Metamask or WalletConnect and get started immediately with low fees on Polygon, an energy efficient and fast blockchain.',
   // description2: 'Actions such as bridging, staking, and providing liquidity are rewarded in these tokens. By locking them in escrow (into veC3), you are entitled to the protocol fees, as well as voting rights. The longer you lock, the greater amount of veC3 you get.',
   btnName: 'SEE INCENTIVES',
-  btnURL: 'https://c3bridge.vercel.app/',
+  btnURL: '/incentives',
   btnName2: 'LET’S GO',
   btnURL2: 'https://c3bridge.vercel.app/',
   bg1: IMG1,

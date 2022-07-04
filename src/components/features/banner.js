@@ -11,7 +11,7 @@ const data = {
     description:
         'C3 is your entry point to the carbon markets. It has been built with accessibility in mind and has in-built rewards for all users.',
     btnName: 'SEE INCENTIVES',
-    btnURL: 'https://c3bridge.vercel.app/',
+    btnURL: '/incentives',
     btnName2: 'LET’S GO',
     btnURL2: 'https://c3bridge.vercel.app/',
 };

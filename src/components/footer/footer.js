@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { jsx, Box, Grid, Container, Image, Heading, Text } from 'theme-ui';
-import { Link } from 'components/link';
+import { jsx, Box, Grid, Container, Image, Heading, Text, Link } from 'theme-ui';
+// import { Link } from 'components/link';
 import data from './footer.data';
 import Logo from 'assets/logo.webp';
 
@@ -24,7 +24,8 @@ export default function Footer() {
             }}>
             {item.elements.map((el, i) => (
               <Box as="li" key={i}>
-                {el}
+                <Link href={el.path} > {el.label}</Link>
+               
               </Box>
 
             ))}
@@ -143,7 +144,11 @@ const styles = {
       li: {
         mb: '20px',
         fontWeight: '300',
-        textAlign: 'left'
+        textAlign: 'left',
+        a: {
+          color: "text",
+          textDecoration:  "none",
+        }
       },
       p: {
         fontSize: [1, '15px'],
